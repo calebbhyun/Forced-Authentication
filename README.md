@@ -24,5 +24,5 @@ To execute the script, use the following command format:
 
 To clean up, use the command:
 ```
-./forced_authentication_clean_up.sh 'FQDN/USERNAME' 'PASSWORD' FILENAME
+./clean_up.sh 'FQDN/USERNAME' 'PASSWORD' FILENAME
 ```
