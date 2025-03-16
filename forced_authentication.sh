@@ -11,7 +11,7 @@
 
 # Check if username, password, and filename were provided
 if [ $# -ne 3 ]; then
-    echo "Incorrect number of arguments provided. Usage: ./test.sh USERNAME PASSWORD FILENAME"
+    echo "Incorrect number of arguments provided. Usage: ./forced_authentication.sh USERNAME PASSWORD FILENAME"
     exit 1
 fi
 
