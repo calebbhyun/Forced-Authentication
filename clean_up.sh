@@ -7,7 +7,7 @@
 # \\HOSTNAME\SHARE2
 # ...
 
-# ./forced_authentication_clean_up.sh 'FQDN/USERNAME' 'PASSWORD' FILENAME
+# ./clean_up.sh 'FQDN/USERNAME' 'PASSWORD' FILENAME
 
 # Check if username, password, and filename were provided
 if [ $# -ne 3 ]; then
